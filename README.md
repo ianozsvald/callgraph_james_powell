@@ -1,4 +1,4 @@
-Code provided by James Powell after a bit of chatter - many thanks James.
+Code provided by James Powell after a bit of chatter - many thanks James, see him on Twitter: https://twitter.com/dontusethiscode (and watch his videos on YouTube, you'll learn _a lot_).
 
 Ian has butchered the code, made an ugly script and downgraded from Python 3.8 (with the walrus operator) to 3.7 (to use in a project with older libs - sorry James!).
 
